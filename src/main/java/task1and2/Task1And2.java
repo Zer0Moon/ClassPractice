@@ -1,6 +1,5 @@
 
 package task1and2;
-
 /**
  *
  * @author INSERT YO NAME HERE DUMMY
